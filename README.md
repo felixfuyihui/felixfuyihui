@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 付艺辉/Yihui Fu
 - 👀 I’m interested in Speech processing
-- 🌱 I’m currently learning E2E ASR
+- 🌱 I’m currently learning Quantitative Trading
 - 💞️ I’m looking to collaborate on alcohol
 - 📫 How to reach me yhfu@npu-aslp.org
 
